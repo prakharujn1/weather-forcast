@@ -70,11 +70,6 @@ input::placeholder {
     margin-top: 3rem;
 }
 
-.weather__datetime {
-    margin-bottom: 2rem;
-    font-size: 14px;
-}
-
 .weather__forecast {
     background: #1e1e1e;
     display: inline-block;
